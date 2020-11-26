@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.inceptionroleplay.com	TRUE	/	FALSE	1999999999	__cfduid	db24f8bf71025d9bd022bf91fa092b9bf1606407928
+www.inceptionroleplay.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.rawgit.com	TRUE	/	FALSE	1999999999	__cfduid	dd7d57786579e047fef07c7e124fca4d91606407931
+rawgit.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
